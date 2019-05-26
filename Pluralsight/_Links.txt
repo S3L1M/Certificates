@@ -1,0 +1,6 @@
+https://app.pluralsight.com/learner/user/courses/jupyter-notebook-python/certificate
+https://app.pluralsight.com/learner/user/courses/node-intro/certificate
+https://app.pluralsight.com/learner/user/courses/html-fundamentals/certificate
+https://app.pluralsight.com/learner/user/courses/css-intro/certificate
+https://app.pluralsight.com/learner/user/courses/data-science-big-picture/certificate
+https://app.pluralsight.com/learner/user/courses/sql-server-fundamentals/certificate
