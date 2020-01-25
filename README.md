@@ -11,7 +11,7 @@
 ######	pandas Foundations Course
 ######	Manipulating DataFrames with pandas
 ######	Introduction to Databases in Python
-######	<<PYTHON PROGRAMMER TRACK>>
+######	PYTHON PROGRAMMER TRACK
 ######	Interactive Data Visualization with Bokeh
 ######	Introduction to Data Visualization in Python
 ######	Introduction to Deep Learning in Python
