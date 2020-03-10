@@ -42,3 +42,18 @@
 ######	The Complete Ethical Hacking
 ######	JavaScript for beginners
 ######	Learn Programming in Python
+
+
+
+#####	I have working experience in:
+Assembly
+Android
+Bash
+C
+Haskell
+Java
+Kotlin
+NodeJS
+SQL
+Python
+VB.Net
