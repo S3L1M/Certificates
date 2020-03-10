@@ -44,9 +44,7 @@
 ######	Learn Programming in Python
 \
 \
-
-\
-\
+<br>
 #####	I have working experience in:
 - Assembly
 - Android
