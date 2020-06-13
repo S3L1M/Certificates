@@ -1,5 +1,8 @@
 # Certificaties
 
+###	Coursera:
+######	Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
+
 ###	DataCamp:
 ######	Introduction to Python
 ######	Intermediate Python for Data Science
