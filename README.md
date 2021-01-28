@@ -54,6 +54,8 @@
 - Android
 - Bash
 - C
+- Dart
+- Flutter
 - Haskell
 - Java
 - Kotlin
