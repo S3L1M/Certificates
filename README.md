@@ -34,6 +34,7 @@
 ######	Jupyter Notebook & Python
 
 ###	Udacity:
+######  Android Nanodegree
 ######	Android Basics
 ######	Android Developer Track
 ######	Data Analysis Track
@@ -53,6 +54,8 @@
 - Android
 - Bash
 - C
+- Dart
+- Flutter
 - Haskell
 - Java
 - Kotlin
