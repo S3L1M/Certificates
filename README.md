@@ -51,8 +51,8 @@
 ######	[JavaScript for beginners](Udemy/javascript.jpg)
 ######	[Learn Programming in Python](Udemy/python-with-animation.jpg)
 \
-\
 <br>
+
 #####	I have working experience in:
 - Assembly
 - Android
