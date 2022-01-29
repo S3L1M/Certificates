@@ -19,12 +19,12 @@
 ######	[Introduction to Data Visualization in Python](DataCamp/Introduction%20to%20Data%20Visualization%20in%20Python.pdf) — *Apr, 2019*
 ######	[Introduction to Deep Learning in Python](DataCamp/Introduction%20to%20Deep%20Learning%20in%20Python.pdf) — *Apr, 2019*
 ######	[Introduction to Git for Data Science](DataCamp/Introduction%20to%20Git%20for%20Data%20Science.pdf) — *Apr, 2019*
-######  [Introduction to SQL](DataCamp/Introduction to SQL.pdf) — *Apr, 2019*
-######  [Merging DataFrames with pandas](DataCamp/Merging DataFrames with pandas.pdf) — *Apr, 2019*
-######  [Supervised Learning with scikit-learn](DataCamp/Supervised Learning with scikit-learn.pdf) — *Apr, 2019*
+######  [Introduction to SQL](DataCamp/Introduction%20to%20SQL.pdf) — *Apr, 2019*
+######  [Merging DataFrames with pandas](DataCamp/Merging%20DataFrames%20with%20pandas.pdf) — *Apr, 2019*
+######  [Supervised Learning with scikit-learn](DataCamp/Supervised%20Learning%20with%20scikit-learn.pdf) — *Apr, 2019*
 
 ###	Google:
-######	[Google Developer Roadshow MENA](Google/SimpleCert Certificate.pdf) — *Oct, 2018*
+######	[Google Developer Roadshow MENA](Google/SimpleCert%20Certificate.pdf) — *Oct, 2018*
 
 ###	Certificates by Microsoft:
 ######	[Using Kodu in the classroom](Microsoft/Certificate.pdf) — *Apr, 2019*
