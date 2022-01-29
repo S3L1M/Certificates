@@ -1,7 +1,7 @@
 # Certificaties
 
 ###	Coursera:
-######	Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
+######	[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](/Coursera/Mindshift.pdf)
 
 ###	DataCamp:
 ######	Introduction to Python
