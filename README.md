@@ -1,7 +1,10 @@
 # Certificaties
 
+###	Internships:
+######	[Digital Product School](Internships/DPS.pdf) — *Jul, 2021*
+
 ###	Coursera:
-######	[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](Coursera/Mindshift.pdf) — *April, 2020*
+######	[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](Coursera/Mindshift.pdf) — *Apr, 2020*
 
 ###	DataCamp:
 ######	[Introduction to Python](DataCamp/Introduction%20to%20Python.pdf) — *May, 2018*
@@ -26,7 +29,7 @@
 ###	Google:
 ######	[Google Developer Roadshow MENA](Google/SimpleCert%20Certificate.pdf) — *Oct, 2018*
 
-###	Certificates by Microsoft:
+###	Microsoft:
 ######	[Using Kodu in the classroom](Microsoft/Certificate.pdf) — *Apr, 2019*
 
 ###	Pluralsight:
