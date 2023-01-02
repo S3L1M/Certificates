@@ -1,6 +1,7 @@
 # Certificaties
 
 ###	Internships:
+######	[Google Summer of Code](Internships/GSoC%202022%20Acceptance%20Letter.pdf) — *Aug, 2022*
 ######	[Digital Product School](Internships/DPS.pdf) — *Jul, 2021*
 
 ###	Coursera:
