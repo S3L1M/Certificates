@@ -17,7 +17,7 @@ Certificaties
 
 - [Grouped by certificate provider](https://github.com/S3L1M/Certificates#grouped-by-certificate-provider)
   * [Google](https://github.com/S3L1M/Certificates#google)
-  * [Digital Product School](https://github.com/S3L1M/Certificates#https://github.com/S3L1M/Certificates#digital-product-school)
+  * [Digital Product School](https://github.com/S3L1M/Certificates#digital-product-school)
   * [Coursera](https://github.com/S3L1M/Certificates#coursera)
   * [DataCamp](https://github.com/S3L1M/Certificates#datacamp)
   * [Udacity](https://github.com/S3L1M/Certificates#udacity)
