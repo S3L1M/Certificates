@@ -13,6 +13,7 @@ Certificaties
   * [Web Dev](https://github.com/S3L1M/Certificates#web-dev)
   * [Ethical Hacking](https://github.com/S3L1M/Certificates#ethical-hacking)
   * [Software Engineering](https://github.com/S3L1M/Certificates#software-engineering)
+  * [Universities](https://github.com/S3L1M/Certificates#university)
 
 - [Grouped by certificate provider](https://github.com/S3L1M/Certificates#grouped-by-certificate-provider)
   * [Google](https://github.com/S3L1M/Certificates#google)
@@ -100,6 +101,10 @@ Grouped by qualifying field
 ######	[**Python Programmer Track**](DataCamp/Python%20Programmer%20Track.pdf) — *Mar, 2019*
 ######	[Jupyter Notebook & Python](Pluralsight/jupyter.pdf)
 ######	[Learn Programming in Python](Udemy/python-with-animation.jpg)
+
+### University
+###### [Helwan University](https://github.com/S3L1M/Certificates/blob/master/FCIH/Certficate.pdf)
+###### [Innopolis University](https://github.com/S3L1M/Certificates/blob/master/IU/IU_transcript.pdf)
 
 Grouped by certificate provider
 -------------------------------
