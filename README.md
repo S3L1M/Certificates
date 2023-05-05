@@ -78,7 +78,8 @@ Grouped by qualifying field
 
 ### Database
 ######	[Introduction to Databases in Python](DataCamp/Introduction%20to%20Databases%20in%20Python.pdf) — *Mar, 2019*
-######  [Introduction to SQL](DataCamp/Introduction%20to%20SQL.pdf) — *Apr, 2019*
+###### [Introduction to SQL](DataCamp/Introduction%20to%20SQL.pdf) — *Apr, 2019*
+###### [Intermediate SQL Queries](DataCamp/Intermediate%20SQL%20Queries.pdf) — *Apr, 2019*
 ######	[SQL Server Fundamentals](Pluralsight/sql.pdf)
 
 ### Version Control
@@ -137,6 +138,7 @@ Grouped by certificate provider
 ######  [Introduction to SQL](DataCamp/Introduction%20to%20SQL.pdf) — *Apr, 2019*
 ######  [Merging DataFrames with pandas](DataCamp/Merging%20DataFrames%20with%20pandas.pdf) — *Apr, 2019*
 ######  [Supervised Learning with scikit-learn](DataCamp/Supervised%20Learning%20with%20scikit-learn.pdf) — *Apr, 2019*
+######  [Intermediate SQL Queries](DataCamp/Intermediate%20SQL%20Queries.pdf) — *Apr, 2019*
 
 ###	Udacity:
 ######	[Android Basics](/Udacity/Android%20Developer%20Track%20-%201MAC.pdf) — *Apr, 2018*
@@ -204,6 +206,7 @@ Grouped by programming language
 
 ### SQL
 ######  [Introduction to SQL](DataCamp/Introduction%20to%20SQL.pdf) — *Apr, 2019*
+###### [Intermediate SQL Queries](DataCamp/Intermediate%20SQL%20Queries.pdf) — *Apr, 2019*
 ######	[SQL Server Fundamentals](Pluralsight/sql.pdf)
 
 ### HTML, CSS
