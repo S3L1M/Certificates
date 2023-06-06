@@ -227,13 +227,15 @@ Grouped by programming language
 - Assembly
 - Android
 - Bash
-- C/C++
+- C
+- C++
 - Dart
 - Flutter
 - Haskell
 - Java
 - Kotlin
 - NodeJS
+- Ruby
 - SQL
 - Python
 - VB.Net
